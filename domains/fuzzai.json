@@ -1,1 +1,11 @@
-
+{
+  "owner": {
+    "email": "fuzzbearaa@proton.me"
+  },
+  "records": {
+    "CNAME": "cname.vercel-dns.com.",
+    "TXT": [
+      "_vercel.fuzzai=vc-domain-verify=fuzzai.is-a.dev,1cf7cf7d153dc797a774"
+    ]
+  }
+}
